@@ -3,27 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Pages Website</title>
+    <title>Rachel Wantuch's Portfolio</title>
     <style>
+        /* Base page layout reset */
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 0 20px;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
             color: #333;
-            background-color: #f9f9f9;
         }
-        h1 {
-            color: #24292e;
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 0.3em;
+
+        /* Container using Flexbox to build side-by-side columns */
+        .page-container {
+            display: flex;
+            min-height: 100vh;
         }
-        .footer {
-            margin-top: 50px;
-            font-size: 0.8em;
-            color: #6a737d;
+
+        /* Left column configuration */
+        .sidebar {
+            width: 300px;
+            background-color: #ffffff;
+            padding: 30px;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
+        }
+
+        /* Profile image styling */
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%; /* Makes image a clean circle */
+            object-fit: cover;  /* Keeps image proportion intact */
+            display: block;
+            margin: 0 auto 20px auto;
+        }
+
+        /* Contact text styling */
+        .contact-info {
             text-align: center;
+        }
+
+        .contact-info h2 {
+            margin: 10px 0 5px 0;
+            font-size: 22px;
+        }
+
+        .contact-info p {
+            margin: 8px 0;
+            color: #666;
+            font-size: 14px;
+        }
+
+        /* Right column for the remaining main content */
+        .main-content {
+            flex: 1;
+            padding: 40px;
         }
     </style>
 </head>
@@ -31,25 +65,40 @@
 
     <h1>Welcome to My Portfolio!</h1>
     <p>Below are various examples of projects I have worked on while pursuing a degree in data science as well as a degree in GIS!</p>
-    
-    <div class="link-section">
-        <h2>Data Science Projects</h2>
-        <ul>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/CA%20Wildfire%20Predictability" > CA Wildfire Predicatability</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/CNN%20Image%20Classsifier"> CNN Image CLassifier</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Data%20Visualization"> Data Visualization Practice</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Linear%20Regression"> Simple Linear Regression</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Model%20Selection%20and%20Hyperparameter%20Tuning"> Model Selection and Hyperparameter Tuning</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Regression%20and%20Princple%20Component%20Analysis"> Regression and Principal Component Analysis</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Seasonal%20Analysis"> Seasonal Analysis</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Sentiment%20Analysis"> Sentiment Analysis</a></li>
-            <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Text%20Based%20Sentiment%20Analysis"> Text Based Sentiment Analysis</a></li>
-        </ul>
-    </div
 
-    <div class="footer">
-        <p>Hosted with ❤️ on GitHub Pages</p>
+    <div class="page-container">
+        
+        <!-- Left Sidebar: Photo & Contact Info -->
+        <aside class="sidebar">
+            <!-- Replace with your own image path -->
+            <img class="profile-pic" src="your-photo.jpg" alt="Profile Picture">
+            
+            <div class="contact-info">
+                <h2>Jane Doe</h2>
+                <p><strong>Title:</strong> Web Developer</p>
+                <p><strong>Email:</strong> jane@example.com</p>
+                <p><strong>Phone:</strong> (555) 019-2834</p>
+                <p><strong>Location:</strong> Los Angeles, CA</p>
+            </div>
+        </aside>
+
+        <main class="main-content">
+    
+            <h2>Data Science Projects</h2>
+            <ul>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/CA%20Wildfire%20Predictability" > CA Wildfire Predicatability</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/CNN%20Image%20Classsifier"> CNN Image CLassifier</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Data%20Visualization"> Data Visualization Practice</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Linear%20Regression"> Simple Linear Regression</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Model%20Selection%20and%20Hyperparameter%20Tuning"> Model Selection and Hyperparameter Tuning</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Regression%20and%20Princple%20Component%20Analysis"> Regression and Principal Component Analysis</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Seasonal%20Analysis"> Seasonal Analysis</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Sentiment%20Analysis"> Sentiment Analysis</a></li>
+                <li><a href="https://github.com/RachelWantuch/portfolio/tree/main/Text%20Based%20Sentiment%20Analysis"> Text Based Sentiment Analysis</a></li>
+            </ul>
+        </main>
     </div>
+
 
 </body>
 </html>
