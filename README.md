@@ -4,6 +4,7 @@ Hello and welcome to my portfolio. It consists primarily of data science projecs
 
 ## Contact Info
 Email: rachelwantuch@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/rachelwantuch/
 
 ## Data Science
