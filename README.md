@@ -10,21 +10,21 @@ LinkedIn: https://www.linkedin.com/in/rachelwantuch/
 ## Data Science
 Graduate School - MS Data Science
 
-[CA Wildfire Predicatability](https://github.com/RachelWantuch/portfolio/blob/main/CA%20Wildfire%20Predictability/WildfirePredictability.ipynb) - RandomForest models with balanced classes and also using GridSearchCV used 40 years of weather data to examine weather and wildfire patterns in California.
+[CA Wildfire Predicatability](https://github.com/RachelWantuch/portfolio/blob/main/CA%20Wildfire%20Predictability/WildfirePredictability.ipynb) - RandomForest models with balanced classes and also using GridSearchCV used 40 years of weather data to examine weather and wildfire patterns in California. A brief exploratory data analysis and data cleaning was performed prior to modeling. The model improved when using GridSearchCV.
 
 <img width="500" height="300" alt="Screenshot (1198)" src="https://github.com/user-attachments/assets/0d3975df-ca47-4772-9d68-2e74f12fa4ee" />
 
 
-[CNN Image Classifier](https://github.com/RachelWantuch/portfolio/blob/main/CNN%20Image%20Classsifier/CNNImageClassifier.ipynb) - The MNIST dataset was used to build an image classifier with 97% accuracy.
+[CNN Image Classifier](https://github.com/RachelWantuch/portfolio/blob/main/CNN%20Image%20Classsifier/CNNImageClassifier.ipynb) - The MNIST dataset was used to build an image classifier with 97% accuracy. This project relied heavily on the keras library. Pixels were rescaled prior to modeling. A convolutional layer with 64 filters, a 5x5 window, and a ReLU activation function were then added to the neural network model. The MaxPooling layer was set to a 2x2 window. Two drop out layers were also added during this process prior to training the neural network.
 
 <img width="500" height="400" alt="Screenshot (1199)" src="https://github.com/user-attachments/assets/946755ad-2ce2-470f-9d86-a5b8893f71d6" />
 
 
-[Data Visualization](https://github.com/RachelWantuch/portfolio/tree/main/Data%20Visualization) - This folder contains two different projects that had a heavy emphasis on data visualizations as well as some model building.
+[Data Visualization](https://github.com/RachelWantuch/portfolio/tree/main/Data%20Visualization) - This folder contains two different projects that had a heavy emphasis on data visualizations as well as some model building. The first project pertained to promo nights at Dodger games and there influence on attendance. Using ordinary least squares (OLS) it was determined that Bobbleheads were the most influential giveaways followed by shirts. 
 
 <img width="600" height="500" alt="Screenshot (1200)" src="https://github.com/user-attachments/assets/35d0fd69-3a15-45fc-9663-e8cc9c14cdfa" />
 
-[Linear Regression](https://github.com/RachelWantuch/portfolio/blob/main/Linear%20Regression/RegressionModelsandMetrics.ipynb) - Three models were built (Ordinary Least Squares, Ridge Regression, and POlynomial Regression) to examine relationships between MPG and the rest of the variables.
+[Linear Regression](https://github.com/RachelWantuch/portfolio/blob/main/Linear%20Regression/RegressionModelsandMetrics.ipynb) - Three models were built (Ordinary Least Squares, Ridge Regression, and POlynomial Regression) to examine relationships between MPG and the rest of the variables. A correlation coefficient matrix was done initially to determine what features negatively affected MPG. For instance a heavier vehicle had a lower MPG. In the end Polynomial Regression was determined to be the best model after comparing evaluation metrics.
 
 <img width="500" height="400" alt="Screenshot (1201)" src="https://github.com/user-attachments/assets/947aa2a2-c1e8-4b4c-a8b8-6f48833c18c8" />
 
@@ -36,7 +36,7 @@ Graduate School - MS Data Science
 
 <img width="500" height="400" alt="Screenshot (1202)" src="https://github.com/user-attachments/assets/745ab0b6-183d-4482-b8c1-ebc4fc7cb651" />
 
-[Sentiment Analysis](https://github.com/RachelWantuch/portfolio/blob/main/Sentiment%20Analysis/ThemeParkSentimentAnalysis.ipynb) A DummyClassifier and Logistic Regression model were both run to compare results on theme park sentiment reviews.
+[Sentiment Analysis](https://github.com/RachelWantuch/portfolio/blob/main/Sentiment%20Analysis/ThemeParkSentimentAnalysis.ipynb) A DummyClassifier and Logistic Regression model were both run to compare results on theme park sentiment reviews. The basic Logistic model without any weather features was the best model based off the evaluation metrics (Precision, Recall, F1 Score).
 
 <img width="500" height="400" alt="Screenshot (1204)" src="https://github.com/user-attachments/assets/ffeea125-bb31-4cf8-96a8-8bd95144e101" />
 
