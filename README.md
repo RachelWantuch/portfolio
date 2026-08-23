@@ -8,14 +8,21 @@ My journey into data science began in 2024. At that point in time I had a very l
 
 [CA Wildfire Predicatability](https://github.com/RachelWantuch/portfolio/tree/main/CA%20Wildfire%20Predictability)
 
-<img width="600" height="300" alt="Screenshot (1198)" src="https://github.com/user-attachments/assets/0d3975df-ca47-4772-9d68-2e74f12fa4ee" />
+<img width="500" height="300" alt="Screenshot (1198)" src="https://github.com/user-attachments/assets/0d3975df-ca47-4772-9d68-2e74f12fa4ee" />
 
 
 [CNN Image Classifier](https://github.com/RachelWantuch/portfolio/tree/main/CNN%20Image%20Classsifier)
 
+<img width="888" height="737" alt="Screenshot (1199)" src="https://github.com/user-attachments/assets/946755ad-2ce2-470f-9d86-a5b8893f71d6" />
+
+
 [Data Visualization](https://github.com/RachelWantuch/portfolio/tree/main/Data%20Visualization)
 
+<img width="1164" height="856" alt="Screenshot (1200)" src="https://github.com/user-attachments/assets/35d0fd69-3a15-45fc-9663-e8cc9c14cdfa" />
+
 [Linear Regression](https://github.com/RachelWantuch/portfolio/tree/main/Linear%20Regression)
+
+<img width="1001" height="786" alt="Screenshot (1201)" src="https://github.com/user-attachments/assets/947aa2a2-c1e8-4b4c-a8b8-6f48833c18c8" />
 
 [Model Selection and Hyperparameter Tuning](https://github.com/RachelWantuch/portfolio/tree/main/Model%20Selection%20and%20Hyperparameter%20Tuning)
 
@@ -23,7 +30,11 @@ My journey into data science began in 2024. At that point in time I had a very l
 
 [Seasonal Analysis](https://github.com/RachelWantuch/portfolio/tree/main/Seasonal%20Analysis)
 
+<img width="1100" height="812" alt="Screenshot (1202)" src="https://github.com/user-attachments/assets/745ab0b6-183d-4482-b8c1-ebc4fc7cb651" />
+
 [Sentiment Analysis](https://github.com/RachelWantuch/portfolio/tree/main/Sentiment%20Analysis)
+
+<img width="1009" height="775" alt="Screenshot (1204)" src="https://github.com/user-attachments/assets/ffeea125-bb31-4cf8-96a8-8bd95144e101" />
 
 [Text Based Sentiment Analysis](https://github.com/RachelWantuch/portfolio/tree/main/Text%20Based%20Sentiment%20Analysis)
 
