@@ -8,5 +8,7 @@ My journey into data science began in 2024. At that point in time I had a very l
 
 [CA Wildfire Predicatability](https://github.com/RachelWantuch/portfolio/tree/main/CA%20Wildfire%20Predictability)
 
+[CNN Image Classifier](https://github.com/RachelWantuch/portfolio/tree/main/CNN%20Image%20Classsifier)
+
 ## GIS
 Undergrad - University of Arizona Online - BS GIST
