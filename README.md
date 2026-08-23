@@ -10,5 +10,19 @@ My journey into data science began in 2024. At that point in time I had a very l
 
 [CNN Image Classifier](https://github.com/RachelWantuch/portfolio/tree/main/CNN%20Image%20Classsifier)
 
+[Data Visualization](https://github.com/RachelWantuch/portfolio/tree/main/Data%20Visualization)
+
+[Linear Regression](https://github.com/RachelWantuch/portfolio/tree/main/Linear%20Regression)
+
+[Model Selection and Hyperparameter Tuning](https://github.com/RachelWantuch/portfolio/tree/main/Model%20Selection%20and%20Hyperparameter%20Tuning)
+
+[Regression and Principle Component Analysis](https://github.com/RachelWantuch/portfolio/tree/main/Regression%20and%20Princple%20Component%20Analysis)
+
+[Seasonal Analysis](https://github.com/RachelWantuch/portfolio/tree/main/Seasonal%20Analysis)
+
+[Sentiment Analysis](https://github.com/RachelWantuch/portfolio/tree/main/Sentiment%20Analysis)
+
+[Text Based Sentiment Analysis](https://github.com/RachelWantuch/portfolio/tree/main/Text%20Based%20Sentiment%20Analysis)
+
 ## GIS
 Undergrad - University of Arizona Online - BS GIST
