@@ -48,6 +48,7 @@ Graduate School - MS Data Science
 
 [Text Based Sentiment Analysis](https://github.com/RachelWantuch/portfolio/blob/main/Text%20Based%20Sentiment%20Analysis/Wantuch550Week3.ipynb) - TextBlob was used to categorize a review as positive or negative sentiment. Further data preperation was performed including removing stopwords and creating a TF-IDF.
 
+[Theme Park Wait Times](https://github.com/RachelWantuch/portfolio/blob/main/Theme%20Park%20Wait%20Times/DisneylandWaitTimeModel.ipynb) - Both the XGBoost Regressor model and the SARIMAX statistical model were used to compare outcomes for predicting wait times for Star Wars: Rise of the Resistance at Disneyland, Anaheim. Daata was cleaned and aggregated to be combined with Meteostat's weather data prior to applying both models. 
 
 ## GIS
 Undergrad - University of Arizona Online - BS GIST
