@@ -2,6 +2,10 @@
 ## About Me
 Hello and welcome to my portfolio. It consists primarily of data science projecs with some of my past GIS school projects as well. I am always ready to learn new things and am a quick learner. My journey into data science began in 2024. At that point in time I had a very loose idea of what data science was. Fast forward two years later and now I have a portfolio to show my work with data science! These projects provide a good sampling of different model building and data preperation in each project. Doing Grad school while holding down 2 jobs was a big challenge but it showed me what I am capable of.
 
+## Contact Info
+Email: rachelwantuch@gmail.com
+LinkedIn: https://www.linkedin.com/in/rachelwantuch/
+
 ## Data Science
 Graduate School - MS Data Science
 
