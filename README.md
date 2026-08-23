@@ -1,10 +1,10 @@
 # My Portfolio
-Hello and welcome to my portfolio. It consists primarily of data science projecs with some of my past GIS school projects as well.
+Hello and welcome to my portfolio. It consists primarily of data science projecs with some of my past GIS school projects as well. I am always ready to learn new things and am a quick learner. 
 
 ## Data Science
 Graduate School - MS Data Science
 
-My journey into data science began in 2024. At that point in time I had a very loose idea of what data science was. Fast forward two years later and now I have a portfolio to show my work with data science!
+My journey into data science began in 2024. At that point in time I had a very loose idea of what data science was. Fast forward two years later and now I have a portfolio to show my work with data science! These projects provide a good sampling of different model building and data preperation in each project.
 
 [CA Wildfire Predicatability](https://github.com/RachelWantuch/portfolio/tree/main/CA%20Wildfire%20Predictability) - RandomForest models with balanced classes and also using GridSearchCV used 40 years of weather data to examine weather and wildfire patterns in California.
 
