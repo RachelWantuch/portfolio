@@ -13,7 +13,7 @@ My journey into data science began in 2024. At that point in time I had a very l
 
 [CNN Image Classifier](https://github.com/RachelWantuch/portfolio/tree/main/CNN%20Image%20Classsifier)
 
-<img width="888" height="737" alt="Screenshot (1199)" src="https://github.com/user-attachments/assets/946755ad-2ce2-470f-9d86-a5b8893f71d6" />
+<img width="500" height="400" alt="Screenshot (1199)" src="https://github.com/user-attachments/assets/946755ad-2ce2-470f-9d86-a5b8893f71d6" />
 
 
 [Data Visualization](https://github.com/RachelWantuch/portfolio/tree/main/Data%20Visualization)
